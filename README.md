@@ -14,7 +14,7 @@
 - 120GB SSD
 - 500GB HDD
 
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10) [![Arch](https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux)](https://archlinux.org/)
+[![Arch](https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux)](https://archlinux.org/) [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 
 ### ⚙️ &nbsp;aivangogh's GitHub Analytics
 <p align="center">
