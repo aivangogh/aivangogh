@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Ivan Gemota!</h2>
 
-- 👀 Languages/Tools I know are Javascript/Typescript, Shell programming (bash), Lua, SQL, Postgres, MongoDB, Hono, ExpressJS, ReactJS/NextJS, NodeJS, and Bun.
+- 👀 Languages/Tools I know are Javascript/Typescript, PHP, Shell programming (bash), Lua, SQL, Postgres, MongoDB, Hono, ExpressJS, ReactJS/NextJS, NodeJS, and Bun.
 - 💞️ I’m an avid learner interested in Full Stack Web Development and Android Development
 - ✔️ Looking forward to achieve something :)
   
